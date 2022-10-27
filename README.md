@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Viết Sơn</h1>
-<h3 align="center">🍀 I am a 4th year student of the Japanese Orientation Program at the University of Information Technology. I’m currently learning ReactJS and Automation testing</h3>
+<h3 align="center">🍀 I am a 4th year student of the Japanese Orientation Program at the University of Information Technology. I’m currently learning ReactJS and Automation testing.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
