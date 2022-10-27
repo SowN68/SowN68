@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sown68&" alt="sown68" /></p>
 
-<p>
+<p align = "right">
   <img src = "https://komarev.com/ghpvc/?username=SowN68&style=for-the-badge" />
   <img src = "https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/SowN68" />
 </p>
