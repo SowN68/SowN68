@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sown68&show_icons=true&locale=en" alt="sown68" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sown68&" alt="sown68" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sown68&" alt="sown68" /></p>
 
 <p align = "right">
   <img src = "https://komarev.com/ghpvc/?username=SowN68&style=for-the-badge" />
