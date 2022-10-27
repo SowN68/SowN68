@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Viết Sơn</h1>
 <h3 align="center">🍀 I am a 4th year student of the Japanese Orientation Program at the University of Information Technology. I’m currently learning ReactJS and Automation testing</h3>
-/github/watchers/:user/:repo?label=Watch
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/viết sơn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viết sơn" height="30" width="40" /></a>
