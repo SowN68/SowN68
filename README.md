@@ -2,6 +2,9 @@
 <h3 align="center">🍀 I am a 4th year student of the Japanese Orientation Program at the University of Information Technology. I’m currently learning ReactJS and Automation testing.</h3>
 
 
+
+
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
